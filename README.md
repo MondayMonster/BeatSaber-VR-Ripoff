@@ -1,4 +1,4 @@
-# XR BeatSaber RipOff VR Game
+# BeatSaber RipOff VR Game
 
 A BeatSaber-inspired VR rhythm game built in Unity using the Meta XR SDK. Punch on-coming diamonds to the beat, dodge obstacles, and survive until the song ends!
 
