@@ -20,10 +20,10 @@ A BeatSaber-inspired VR rhythm game built in Unity using the Meta XR SDK. Punch 
 ## Scenes
 
 ### 1. Lobby  
-![Lobby Scene](assets/images/lobby_scene.png)  
+![Lobby Scene](./images/img1.png)  
 - Main menu with background audio.  
 - Three diamond “buttons” inside a vertical pipe; punch to select level.
-![Short alt text](./images/img1.png)
+
 
 
 ### 2. Level Template  
