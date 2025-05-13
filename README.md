@@ -27,7 +27,7 @@ A BeatSaber-inspired VR rhythm game built in Unity using the Meta XR SDK. Punch 
 
 
 ### 2. Level Template  
-![Pipe Environment](assets/images/pipe_environment.png)  
+![Pipe Environment](./images/img2.png)
 - Giant pipe environment with ground/platform models inside.  
 - Fog effect applied via **Window → Rendering → Lighting → Environment**.  
 - Duplicate template for each level; customize music/fog color. 
@@ -41,6 +41,9 @@ A BeatSaber-inspired VR rhythm game built in Unity using the Meta XR SDK. Punch 
 - Override `OnBeatEvent()` to hook into beat callbacks. 
 
 ---
+![More Images](./images/img3.png)
+![More Images](./images/img4.png)
+
 
 ## Haptic & Visual Feedback
 
